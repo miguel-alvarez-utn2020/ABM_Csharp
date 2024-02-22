@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WY1ihSFZXDr+/nVInVTiqvjBuQnmy2PoxFPACEUNbEV1rVU8x8dgRnPmQipuma1uwZKUiPN46ugzmMrqizQfCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ayi Group\\source\\repos\\ConsoleAppEjemplo\\ConsoleAppEjemplo\\ConsoleAppEjemplo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ayi Group\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

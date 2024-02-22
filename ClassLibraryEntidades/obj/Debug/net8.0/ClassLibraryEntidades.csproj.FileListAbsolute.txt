@@ -1,0 +1,12 @@
+C:\Users\Ayi Group\source\repos\ConsoleAppEjemplo\ClassLibraryEntidades\bin\Debug\net8.0\ClassLibraryEntidades.deps.json
+C:\Users\Ayi Group\source\repos\ConsoleAppEjemplo\ClassLibraryEntidades\bin\Debug\net8.0\ClassLibraryEntidades.dll
+C:\Users\Ayi Group\source\repos\ConsoleAppEjemplo\ClassLibraryEntidades\bin\Debug\net8.0\ClassLibraryEntidades.pdb
+C:\Users\Ayi Group\source\repos\ConsoleAppEjemplo\ClassLibraryEntidades\obj\Debug\net8.0\ClassLibraryEntidades.csproj.AssemblyReference.cache
+C:\Users\Ayi Group\source\repos\ConsoleAppEjemplo\ClassLibraryEntidades\obj\Debug\net8.0\ClassLibraryEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayi Group\source\repos\ConsoleAppEjemplo\ClassLibraryEntidades\obj\Debug\net8.0\ClassLibraryEntidades.AssemblyInfoInputs.cache
+C:\Users\Ayi Group\source\repos\ConsoleAppEjemplo\ClassLibraryEntidades\obj\Debug\net8.0\ClassLibraryEntidades.AssemblyInfo.cs
+C:\Users\Ayi Group\source\repos\ConsoleAppEjemplo\ClassLibraryEntidades\obj\Debug\net8.0\ClassLibraryEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Ayi Group\source\repos\ConsoleAppEjemplo\ClassLibraryEntidades\obj\Debug\net8.0\ClassLibraryEntidades.dll
+C:\Users\Ayi Group\source\repos\ConsoleAppEjemplo\ClassLibraryEntidades\obj\Debug\net8.0\refint\ClassLibraryEntidades.dll
+C:\Users\Ayi Group\source\repos\ConsoleAppEjemplo\ClassLibraryEntidades\obj\Debug\net8.0\ClassLibraryEntidades.pdb
+C:\Users\Ayi Group\source\repos\ConsoleAppEjemplo\ClassLibraryEntidades\obj\Debug\net8.0\ref\ClassLibraryEntidades.dll

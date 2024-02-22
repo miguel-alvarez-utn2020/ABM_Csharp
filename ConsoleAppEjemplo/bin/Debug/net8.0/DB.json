@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Activo": false,
+    "Nombre": "Dabby",
+    "Documento": "35224578"
+  },
+  {
+    "Id": 2,
+    "Activo": false,
+    "Nombre": "Ale",
+    "Documento": "33288260"
+  },
+  {
+    "Id": 3,
+    "Activo": false,
+    "Nombre": "Dabby",
+    "Documento": "33288260"
+  },
+  {
+    "Id": 4,
+    "Activo": false,
+    "Nombre": "Juan",
+    "Documento": "33288260"
+  }
+]
